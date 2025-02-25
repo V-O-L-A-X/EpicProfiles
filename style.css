@@ -1,1 +1,5 @@
-.nen{background-color: #0818A8;}
+html{height: 100%;}
+.nen{
+  background: rgb(62,98,255);
+  background: radial-gradient(circle, rgba(62,98,255,1) 0%, rgba(0,20,195,1) 37%, rgba(0,0,77,1) 100%);
+}
