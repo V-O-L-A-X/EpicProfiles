@@ -9,6 +9,7 @@
   </head>
   <body class="nen container ">
     <h1 class="container alert alert-warning">Hello, world!</h1>
+    <?php include("dialogue.php");?>
     <div class="fs-3 fw-medium lh-base text-white">
     <p>
       If you're looking for random paragraphs, you've come to the right place. When a random word or a random
